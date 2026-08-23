@@ -1,4 +1,4 @@
-# Murmur YouTube
+# VoiceType
 
 Push-to-talk dictation for macOS. Hold a key, talk, release — cleaned-up text lands in
 whatever text field has focus. A Wispr Flow-shaped app, built native and fully on-device.
